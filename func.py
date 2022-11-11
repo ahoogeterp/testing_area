@@ -66,19 +66,19 @@ def text_count(src_path,):
         # Loop through each line of the file
         for line in open(src_path, "r"):
             # Remove the leading spaces and newline character
-            line = line.strip(line.lower(line.split(" ")))
-            # line = line.strip()
+            # line = line.strip(line.lower(line.split(" ")))
+            line = line.strip()
 
             # Convert the characters in line to
             # lowercase to avoid case mismatch
-            # line = line.lower()
+            line = line.lower()
 
             # Split the line into words
-            # words = line.split(" ")
+            words = line.split(" ")
                                 
 
             # Iterate over each word in line
-            for word in line:
+            for word in words:
                 # Check if the word is already in dictionary
                 if word in d:
                     # Increment count of word by 1
@@ -88,9 +88,11 @@ def text_count(src_path,):
                     d[word] = 1
 
         # Print the contents of dictionary
-        for key in sorted(list(d.keys())):
-            print(key, ":", d[key])
+        for key in sorted(d.keys()):
+            list1 = d[key], ":", key
+            print(list1)
+            # print(sorted(list1))
 
-        print(d)
-    except:
-        print(Exception)
+        # print(d)
+    except Exception as Error:
+        print(Error)

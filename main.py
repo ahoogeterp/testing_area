@@ -1,4 +1,4 @@
-from func import counting, img_con_pdf, pdf_con_img, text_count, img_to_txt
+from func import counting, img_con_pdf, pdf_con_img, text_count, img_to_txt, text_count
 
 
 # counting()
@@ -11,4 +11,5 @@ destination = r'/home/adam/repos/testing_area/dest/'
 
 
 # text_count()
-img_to_txt(source1)
+# img_to_txt(source1)
+text_count(r'/home/adam/repos/testing_area/dest/text.txt')
