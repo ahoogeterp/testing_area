@@ -1,1 +1,311 @@
-{"_via_settings":{"ui":{"annotation_editor_height":25,"annotation_editor_fontsize":0.8,"leftsidebar_width":16,"image_grid":{"img_height":80,"rshape_fill":"none","rshape_fill_opacity":0.3,"rshape_stroke":"yellow","rshape_stroke_width":2,"show_region_shape":true,"show_image_policy":"all"},"image":{"region_label":"__via_region_id__","region_color":"__via_default_region_color__","region_label_font":"10px Sans","on_image_annotation_editor_placement":"NEAR_REGION"}},"core":{"buffer_size":18,"filepath":{},"default_filepath":""},"project":{"name":"via_project_16Jan2023_10h53m"}},"_via_img_metadata":{"istockphoto-1139471940-1024x1024.jpg95444":{"filename":"istockphoto-1139471940-1024x1024.jpg","size":95444,"regions":[{"shape_attributes":{"name":"polyline","all_points_x":[333,323,269,238,217,213,225,251,251,293,290,232,202,203,220,215,625,633,503,494,335],"all_points_y":[57,88,115,143,187,233,281,319,328,367,378,373,393,419,422,559,563,137,95,55,56]},"region_attributes":{"Good":"Tanker\n"}}],"file_attributes":{}},"rear-view-of-a-fuel-tanker-driving-along-a-dual-carriageway-B028Y2.jpg111583":{"filename":"rear-view-of-a-fuel-tanker-driving-along-a-dual-carriageway-B028Y2.jpg","size":111583,"regions":[{"shape_attributes":{"name":"polyline","all_points_x":[589,536,489,451,438,422,416,421,432,448,472,384,390,808,804,732,765,774,754,715,658,588],"all_points_y":[186,192,218,256,282,315,356,397,435,461,494,493,731,731,482,477,416,350,284,231,196,187]},"region_attributes":{"Good":""}}],"file_attributes":{}},"large-automotive-fuel-tanker-truck-driving-on-highway-fuel-transportation-MCETJ3.jpg161848":{"filename":"large-automotive-fuel-tanker-truck-driving-on-highway-fuel-transportation-MCETJ3.jpg","size":161848,"regions":[{"shape_attributes":{"name":"polyline","all_points_x":[993,920,840,785,773,773,776,846,868,868,762,762,1214,1196,1109,1110,1161,1203,1211,1190,1141,1063,996],"all_points_y":[210,217,261,359,433,535,553,638,656,739,742,953,953,689,686,651,605,533,426,353,281,222,213]},"region_attributes":{"Good":""}}],"file_attributes":{}},"istockphoto-1152673930-612x612.jpg43841":{"filename":"istockphoto-1152673930-612x612.jpg","size":43841,"regions":[{"shape_attributes":{"name":"polyline","all_points_x":[203,147,141,104,77,75,77,88,107,129,138,136,56,58,59,344,344,295,310,322,318,300,262,248,244,210],"all_points_y":[36,36,61,83,116,144,162,185,206,225,229,237,237,288,375,372,212,201,177,146,112,83,61,57,35,36]},"region_attributes":{"Good":""}}],"file_attributes":{}}},"_via_attributes":{"region":{"Good":{"type":"text","description":"","default_value":""}},"file":{}},"_via_data_format_version":"2.0.10","_via_image_id_list":["istockphoto-1139471940-1024x1024.jpg95444","rear-view-of-a-fuel-tanker-driving-along-a-dual-carriageway-B028Y2.jpg111583","large-automotive-fuel-tanker-truck-driving-on-highway-fuel-transportation-MCETJ3.jpg161848","istockphoto-1152673930-612x612.jpg43841"]}
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 16,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "__via_region_id__",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "via_project_16Jan2023_10h53m"
+        }
+    },
+    "_via_img_metadata": {
+        "istockphoto-1139471940-1024x1024.jpg95444": {
+            "filename": "istockphoto-1139471940-1024x1024.jpg",
+            "size": 95444,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polyline",
+                        "all_points_x": [
+                            333,
+                            323,
+                            269,
+                            238,
+                            217,
+                            213,
+                            225,
+                            251,
+                            251,
+                            293,
+                            290,
+                            232,
+                            202,
+                            203,
+                            220,
+                            215,
+                            625,
+                            633,
+                            503,
+                            494,
+                            335
+                        ],
+                        "all_points_y": [
+                            57,
+                            88,
+                            115,
+                            143,
+                            187,
+                            233,
+                            281,
+                            319,
+                            328,
+                            367,
+                            378,
+                            373,
+                            393,
+                            419,
+                            422,
+                            559,
+                            563,
+                            137,
+                            95,
+                            55,
+                            56
+                        ]
+                    },
+                    "region_attributes": {
+                        "Good": "Tanker\n"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "rear-view-of-a-fuel-tanker-driving-along-a-dual-carriageway-B028Y2.jpg111583": {
+            "filename": "rear-view-of-a-fuel-tanker-driving-along-a-dual-carriageway-B028Y2.jpg",
+            "size": 111583,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polyline",
+                        "all_points_x": [
+                            589,
+                            536,
+                            489,
+                            451,
+                            438,
+                            422,
+                            416,
+                            421,
+                            432,
+                            448,
+                            472,
+                            384,
+                            390,
+                            808,
+                            804,
+                            732,
+                            765,
+                            774,
+                            754,
+                            715,
+                            658,
+                            588
+                        ],
+                        "all_points_y": [
+                            186,
+                            192,
+                            218,
+                            256,
+                            282,
+                            315,
+                            356,
+                            397,
+                            435,
+                            461,
+                            494,
+                            493,
+                            731,
+                            731,
+                            482,
+                            477,
+                            416,
+                            350,
+                            284,
+                            231,
+                            196,
+                            187
+                        ]
+                    },
+                    "region_attributes": {
+                        "Good": ""
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "large-automotive-fuel-tanker-truck-driving-on-highway-fuel-transportation-MCETJ3.jpg161848": {
+            "filename": "large-automotive-fuel-tanker-truck-driving-on-highway-fuel-transportation-MCETJ3.jpg",
+            "size": 161848,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polyline",
+                        "all_points_x": [
+                            993,
+                            920,
+                            840,
+                            785,
+                            773,
+                            773,
+                            776,
+                            846,
+                            868,
+                            868,
+                            762,
+                            762,
+                            1214,
+                            1196,
+                            1109,
+                            1110,
+                            1161,
+                            1203,
+                            1211,
+                            1190,
+                            1141,
+                            1063,
+                            996
+                        ],
+                        "all_points_y": [
+                            210,
+                            217,
+                            261,
+                            359,
+                            433,
+                            535,
+                            553,
+                            638,
+                            656,
+                            739,
+                            742,
+                            953,
+                            953,
+                            689,
+                            686,
+                            651,
+                            605,
+                            533,
+                            426,
+                            353,
+                            281,
+                            222,
+                            213
+                        ]
+                    },
+                    "region_attributes": {
+                        "Good": ""
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "istockphoto-1152673930-612x612.jpg43841": {
+            "filename": "istockphoto-1152673930-612x612.jpg",
+            "size": 43841,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polyline",
+                        "all_points_x": [
+                            203,
+                            147,
+                            141,
+                            104,
+                            77,
+                            75,
+                            77,
+                            88,
+                            107,
+                            129,
+                            138,
+                            136,
+                            56,
+                            58,
+                            59,
+                            344,
+                            344,
+                            295,
+                            310,
+                            322,
+                            318,
+                            300,
+                            262,
+                            248,
+                            244,
+                            210
+                        ],
+                        "all_points_y": [
+                            36,
+                            36,
+                            61,
+                            83,
+                            116,
+                            144,
+                            162,
+                            185,
+                            206,
+                            225,
+                            229,
+                            237,
+                            237,
+                            288,
+                            375,
+                            372,
+                            212,
+                            201,
+                            177,
+                            146,
+                            112,
+                            83,
+                            61,
+                            57,
+                            35,
+                            36
+                        ]
+                    },
+                    "region_attributes": {
+                        "Good": ""
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Good": {
+                "type": "text",
+                "description": "",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "istockphoto-1139471940-1024x1024.jpg95444",
+        "rear-view-of-a-fuel-tanker-driving-along-a-dual-carriageway-B028Y2.jpg111583",
+        "large-automotive-fuel-tanker-truck-driving-on-highway-fuel-transportation-MCETJ3.jpg161848",
+        "istockphoto-1152673930-612x612.jpg43841"
+    ]
+}
